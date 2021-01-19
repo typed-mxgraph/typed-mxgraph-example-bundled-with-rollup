@@ -1,4 +1,4 @@
-# mxgraph-typescript-example-bundled-with-rollup
+# typed-mxgraph-example-bundled-with-rollup
 
 Example of Typescript application using the mxGraph and [typed-mxgraph](https://github.com/typed-mxgraph/typed-mxgraph) npm packages and bundled with Rollup
 
@@ -10,8 +10,8 @@ Created from the [rollup-starter-app](https://github.com/rollup/rollup-starter-a
 Clone this repository and install its dependencies (tested with Node 12):
 
 ```bash
-git clone https://github.com/tbouffard/mxgraph-typescript-example-bundled-with-rollup.git
-cd mxgraph-typescript-example-bundled-with-rollup
+git clone https://github.com/tbouffard/typed-mxgraph-example-bundled-with-rollup.git
+cd typed-mxgraph-example-bundled-with-rollup
 npm install
 ```
 
