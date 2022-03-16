@@ -1,4 +1,4 @@
-import factory, {mxGraphExportObject} from 'mxgraph';
+import factory, {type mxGraphExportObject} from 'mxgraph';
 
 export default initialize();
 
