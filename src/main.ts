@@ -1,6 +1,6 @@
 import mx from './mxgraph-loader';
 import {registerCustomShapes} from "./custom-shapes";
-import {mxGraph, mxGraphModel} from 'mxgraph';
+import type {mxGraph, mxGraphModel} from 'mxgraph';
 
 // even though Rollup is bundling all your files together, errors and
 // logs will still point to your original source modules

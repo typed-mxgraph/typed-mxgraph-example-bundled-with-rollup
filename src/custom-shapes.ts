@@ -1,5 +1,5 @@
 import mx from './mxgraph-loader';
-import { mxAbstractCanvas2D, mxRectangle } from 'mxgraph';
+import type { mxAbstractCanvas2D, mxRectangle } from 'mxgraph';
 
 export function registerCustomShapes(): void {
     console.info('Registering custom shapes...');
