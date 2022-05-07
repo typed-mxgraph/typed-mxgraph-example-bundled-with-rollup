@@ -1,19 +1,19 @@
 {
   "name": "mxgraph-typescript-rollup-example",
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^22.0.0",
-    "@rollup/plugin-node-resolve": "^13.3.0",
-    "@typed-mxgraph/typed-mxgraph": "^1.0.5",
-    "npm-run-all": "^4.1.5",
-    "rollup": "^2.72.0",
-    "rollup-plugin-typescript": "^1.0.1",
-    "rollup-plugin-terser": "^7.0.2",
-    "serve": "^13.0.2",
-    "tslib": "^2.4.0",
-    "typescript": "^4.6.4"
+    "@rollup/plugin-commonjs": "~22.0.0",
+    "@rollup/plugin-node-resolve": "~13.3.0",
+    "@typed-mxgraph/typed-mxgraph": "~1.0.5",
+    "npm-run-all": "~4.1.5",
+    "rollup": "~2.72.0",
+    "rollup-plugin-typescript": "~1.0.1",
+    "rollup-plugin-terser": "~7.0.2",
+    "serve": "~13.0.2",
+    "tslib": "~2.4.0",
+    "typescript": "~4.6.4"
   },
   "dependencies": {
-    "mxgraph": "^4.2.2"
+    "mxgraph": "~4.2.2"
   },
   "scripts": {
     "build": "rollup -c",
